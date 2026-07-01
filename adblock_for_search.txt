@@ -29,5 +29,6 @@ coccoc.com##div.default-oFQiX:nth-of-type(15) > .default-z6MQ8
 duckduckgo.com###features
 duckduckgo.com##.footer
 duckduckgo.com##._f3aDBGcVsGYEX6faISN.AqHvr90CPQdpxvM5Hudq
+duckduckgo.com##.LOwJzErTxdlXGS0czM9G.Kupr9ErN7rY_2FrO5WXD.fIgpqHfKgUmmk5lqmvL5.TQFs9yvBgnOz3EeEI5OL
 ! Google trends
 trends.google.com##.sMNisf
