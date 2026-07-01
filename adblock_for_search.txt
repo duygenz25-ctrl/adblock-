@@ -25,6 +25,7 @@ coccoc.com##div.default-oFQiX:nth-of-type(14) > .default-z6MQ8 > li.adsItem-Qqs8
 coccoc.com##li.adsItem-Qqs8g.adsItem-gdJPL.card_type_boxshadow.card_type_rounded.card_type_bg_white.card_type_margin_bottom.card_type_2_padding:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1)
 coccoc.com##div.default-oFQiX:nth-of-type(14) > .default-z6MQ8
 coccoc.com##div.default-oFQiX:nth-of-type(15) > .default-z6MQ8
+coccoc.com##.safeSearch-E_3tn
 ! Duckduckgo
 duckduckgo.com###features
 duckduckgo.com##.footer
