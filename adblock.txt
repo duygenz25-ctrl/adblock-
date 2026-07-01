@@ -1,10 +1,12 @@
 search.brave.com##footer.svelte-jz8lnl > .column-layout.noscrollbar.svelte-1f8i7g0
+
 www.bing.com##.suggestion_container
 www.bing.com##.composer_wrapper
 www.bing.com###b_bop_pin_placehold
 www.bing.com###b_footerItems
 www.bing.com##.b_clickarea
 www.bing.com###b-scopeListItem-copilotsearch > [href*="\/copilotsearch"]
+
 coccoc.com##.useLogin-LK_XD.over_background_user
 coccoc.com##.footer-JBSbr
 coccoc.com##.market-XnF_E
@@ -14,14 +16,16 @@ coccoc.com##div.default-oFQiX:nth-of-type(12) > .default-z6MQ8 > .adsItem-Qqs8g.
 coccoc.com##.OtherSearchEngines-jYAIg
 coccoc.com##div.topNavigationBar-SvPdn:nth-of-type(2) > a
 coccoc.com##[href*="https\:\/\/hoctap\.coccoc\.com\/"]
+coccoc.com##div.default-oFQiX:nth-of-type(2) > .default-z6MQ8
+coccoc.com##div.default-oFQiX:nth-of-type(14) > .default-z6MQ8 > li.adsItem-Qqs8g.adsItem-gdJPL.card_type_boxshadow.card_type_rounded.card_type_bg_white.card_type_margin_bottom.card_type_2_padding:nth-of-type(3)
+coccoc.com##li.adsItem-Qqs8g.adsItem-gdJPL.card_type_boxshadow.card_type_rounded.card_type_bg_white.card_type_margin_bottom.card_type_2_padding:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1)
+coccoc.com##div.default-oFQiX:nth-of-type(14) > .default-z6MQ8
+
 www.bing.com###b-scopeListItem-conv > [href*="https\:\/\/www\.bing\.com\/ck\/a"]
 @@||hocvien.haravan.com^$first-party
 
 duckduckgo.com###features
 duckduckgo.com##.footer
-trends.google.com##.sMNisf
 duckduckgo.com##._f3aDBGcVsGYEX6faISN.AqHvr90CPQdpxvM5Hudq
-coccoc.com##div.default-oFQiX:nth-of-type(2) > .default-z6MQ8
-coccoc.com##div.default-oFQiX:nth-of-type(14) > .default-z6MQ8 > li.adsItem-Qqs8g.adsItem-gdJPL.card_type_boxshadow.card_type_rounded.card_type_bg_white.card_type_margin_bottom.card_type_2_padding:nth-of-type(3)
-coccoc.com##li.adsItem-Qqs8g.adsItem-gdJPL.card_type_boxshadow.card_type_rounded.card_type_bg_white.card_type_margin_bottom.card_type_2_padding:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1)
-coccoc.com##div.default-oFQiX:nth-of-type(14) > .default-z6MQ8
+
+trends.google.com##.sMNisf
