@@ -12,12 +12,6 @@ truyenqqko.com##.main_content > span.text-center:nth-of-type(1)
 animevietsub.love##[src*="https\:\/\/lh3\.googleusercontent\.com\/jLmubMHhzNSZkuxjweTycOOReGz2wMIfSTQ3Arqy07GO9ohFw596i-9nuN6xXqzNr0nAUg6AiCOjlNnmDxRfPFlLnxnlDY-yq03GIvOKckE8hXjJkwQblZgUH3rHbg\=s0"]
 animevietsub.love##.announcement
 animevietsub.love##.Footer
-[class^="animehay]###top-banner > div
-[class^="animehay]##.ah-footer__inner
-[class^="animehay]##.ah-footer__bottom-inner
-[class^="animehay]##[src*="\/ad_banner\/hdbet\.gif\?v\=2\.4"]
-[class^="animehay]##[src*="\/ad_banner\/ball88\.gif\?v\=1\.5"]
-[class^="animehay]##[src*="\/ad_banner\/3bet\.gif\?v\=1\.8"]
 www.bing.com###aitools
 www.bing.com###footer
 [class^="animehay]##[src*="\/ad_banner\/ball88\.gif\?v\=1\.5"]
