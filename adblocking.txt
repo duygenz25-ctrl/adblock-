@@ -23,3 +23,4 @@ www.bing.com###footer
 animehay08.site##[src*="\/ad_banner\/ball88\.gif\?v\=1\.5"]
 animehay08.site##[src*="\/ad_banner\/3bet\.gif\?v\=1\.8"]
 animehay08.site##[src*="\/ad_banner\/hdbet\.gif\?v\=2\.4"]
+www.bing.com##.b_poleContent
