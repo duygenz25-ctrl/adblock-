@@ -7,6 +7,7 @@ search.brave.com##footer.svelte-jz8lnl > .column-layout.noscrollbar.svelte-1f8i7
 www.bing.com##.suggestion_container
 www.bing.com##.composer_wrapper
 www.bing.com###id_rh_w
+www.bing.com##.b_clickarea
 
 ! cốc cốc
 coccoc.com##.useLogin-LK_XD.over_background_user
