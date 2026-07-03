@@ -37,6 +37,16 @@ duckduckgo.com###features
 duckduckgo.com##.footer
 duckduckgo.com##._f3aDBGcVsGYEX6faISN.AqHvr90CPQdpxvM5Hudq
 duckduckgo.com##.LOwJzErTxdlXGS0czM9G.Kupr9ErN7rY_2FrO5WXD.fIgpqHfKgUmmk5lqmvL5.TQFs9yvBgnOz3EeEI5OL
+duckduckgo.com##.set-browser-promo__content
+duckduckgo.com##.set-browser-promo
+duckduckgo.com##.set-docs-link > div
+duckduckgo.com##div.frm__field.fix:nth-of-type(19)
+duckduckgo.com###setting_container_kak
+duckduckgo.com###setting_container_kax
+duckduckgo.com###setting_container_kaq
+duckduckgo.com###setting_container_kap
+duckduckgo.com###setting_container_kao
+duckduckgo.com###setting_container_kau
 
 ! Google trends
 trends.google.com##.sMNisf
