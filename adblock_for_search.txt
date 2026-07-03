@@ -1,6 +1,7 @@
 ! Title: ADS blocking for search engine 
 ! brave
 search.brave.com##footer.svelte-jz8lnl > .column-layout.noscrollbar.svelte-1f8i7g0
+
 ! bing
 www.bing.com##.suggestion_container
 www.bing.com##.composer_wrapper
@@ -10,6 +11,7 @@ www.bing.com##.b_clickarea
 www.bing.com###b-scopeListItem-copilotsearch > [href*="\/copilotsearch"]
 www.bing.com###b-scopeListItem-conv > [href*="https\:\/\/www\.bing\.com\/ck\/a"]
 @@||hocvien.haravan.com^$first-party
+
 ! cốc cốc
 coccoc.com##.useLogin-LK_XD.over_background_user
 coccoc.com##.footer-JBSbr
@@ -37,11 +39,4 @@ duckduckgo.com##.LOwJzErTxdlXGS0czM9G.Kupr9ErN7rY_2FrO5WXD.fIgpqHfKgUmmk5lqmvL5.
 
 ! Google trends
 trends.google.com##.sMNisf
-
-! Jul 2, 2026 https://truyenqqko.com
-truyenqqko.com##body > .light
-truyenqqko.com##.alert-note.alert
-truyenqqko.com###home-intro-content
-truyenqqko.com##.banner-content
-
 
