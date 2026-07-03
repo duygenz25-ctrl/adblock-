@@ -12,6 +12,9 @@ www.bing.com##.b_clickarea
 www.bing.com###b-scopeListItem-copilotsearch > [href*="\/copilotsearch"]
 www.bing.com###b-scopeListItem-conv > [href*="https\:\/\/www\.bing\.com\/ck\/a"]
 @@||hocvien.haravan.com^$first-party
+www.bing.com###aitools
+www.bing.com###footer
+www.bing.com##.b_poleContent
 
 ! cốc cốc
 coccoc.com##.useLogin-LK_XD.over_background_user
@@ -31,6 +34,7 @@ coccoc.com##div.default-oFQiX:nth-of-type(15) > .default-z6MQ8
 coccoc.com##.safeSearch-E_3tn
 coccoc.com##.over_background_user.useLogin-R3F0S
 coccoc.com##.card_type_2_padding.card_type_margin_bottom.card_type_bg_white.card_type_rounded.card_type_boxshadow.adsItem-AUBHI.adsItem-Qqs8g
+coccoc.com##.card_type_2_padding.card_type_margin_bottom.card_type_bg_white.card_type_rounded.card_type_boxshadow.adsItem-gdJPL.adsItem-Qqs8g > div > div
 
 ! Duckduckgo
 duckduckgo.com###features
