@@ -38,12 +38,6 @@ duckduckgo.com##.set-browser-promo__content
 duckduckgo.com##.set-browser-promo
 duckduckgo.com##.set-docs-link > div
 duckduckgo.com##div.frm__field.fix:nth-of-type(19)
-duckduckgo.com###setting_container_kak
-duckduckgo.com###setting_container_kax
-duckduckgo.com###setting_container_kaq
-duckduckgo.com###setting_container_kap
-duckduckgo.com###setting_container_kao
-duckduckgo.com###setting_container_kau
 
 ! Google trends
 trends.google.com##.sMNisf
